@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: test-backstage
   annotations:
-    dependencytrack/project-id: 567cc281-911b-489f-ada8-62225262562f
+    dependencytrack/project-id: 4e6a8c38-4f24-4001-9dd8-b0a8cfb7aba4
     github.com/project-slug: pedrooct/test-backstage
 spec:
   type: other
